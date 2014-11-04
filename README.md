@@ -1,4 +1,5 @@
 # Todo.txt Touch
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dataduke/todo.txt-touch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An Android application by [Gina Trapani](http://ginatrapani.org) and [the Todo.txt community](http://groups.yahoo.com/group/todotxt/) designed to manage your [todo.txt file](http://todotxt.com) stored in [Dropbox](http://dropbox.com).
 
